@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/drsitoulawebsite/static/css/main.81e58c10.css",
+    "main.js": "/drsitoulawebsite/static/js/main.ebd06af7.js",
+    "static/js/453.af0b23ac.chunk.js": "/drsitoulawebsite/static/js/453.af0b23ac.chunk.js",
+    "static/media/dr.jpg": "/drsitoulawebsite/static/media/dr.0028ce5077c43d9e343a.jpg",
+    "index.html": "/drsitoulawebsite/index.html",
+    "main.81e58c10.css.map": "/drsitoulawebsite/static/css/main.81e58c10.css.map",
+    "main.ebd06af7.js.map": "/drsitoulawebsite/static/js/main.ebd06af7.js.map",
+    "453.af0b23ac.chunk.js.map": "/drsitoulawebsite/static/js/453.af0b23ac.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.81e58c10.css",
+    "static/js/main.ebd06af7.js"
+  ]
+}
