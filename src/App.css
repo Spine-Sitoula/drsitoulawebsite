@@ -376,3 +376,16 @@ footer {
     width: 50px;
   }
 }
+  /* Add spacing between sections */
+  .fellowships-grid {
+  margin-bottom: 2rem;
+  }
+
+  .card:last-child {
+    margin-top: 2rem;
+  }
+
+/* For Contact page */
+  .contact-info + .card {
+    margin-top: 2rem;
+  }
