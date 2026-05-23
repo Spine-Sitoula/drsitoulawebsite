@@ -56,7 +56,7 @@ const HomePage = () => {
           <div className="photo-card">
             <div className="person-photo">
               <img 
-                src="/prakash.jpg" 
+                src={'${process.env.PUBLIC_URL}/prakash.jpg'} 
                 alt="Dr. Prakash Sitoula" 
                 onError={(e) => e.target.src = 'https://placehold.co/400x500?text=Dr.+Prakash+Sitoula'}
               />
