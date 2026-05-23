@@ -8,7 +8,7 @@ import './App.css';
 
 function App() {
   return (
-    <Router>
+    <Router basename="/drsitoulawebsite">
       <div className="app">
         <div className="bg-layer"></div>
         <div className="container">
