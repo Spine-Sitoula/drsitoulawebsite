@@ -13,7 +13,7 @@ const FellowshipsPage = () => {
   return (
     <div>
       <div className="card">
-        <h2 style={{ color: '#1a6b8a', marginBottom: '0.5rem', fontSize: '1.6rem', fontWeight: '600' }}>International Fellowships</h2>
+        <h2 style={{ color: '#1a6b8a', marginBottom: '0.5rem', fontSize: '1.6rem', fontWeight: '600' }}>Fellowships</h2>
         <p style={{ color: '#4a6e80', marginBottom: '0.5rem' }}>Advanced clinical and research training at world-renowned spine centers across six countries.</p>
         <div style={{ height: '3px', width: '50px', background: '#9ec8d6', marginTop: '1rem' }}></div>
       </div>
@@ -28,7 +28,7 @@ const FellowshipsPage = () => {
           </div>
         ))}
       </div>
-
+      {/* 
       <div className="card">
         <h3 className="section-title">Fellowship Highlights</h3>
         <ul className="list">
@@ -38,6 +38,7 @@ const FellowshipsPage = () => {
           <li>AO Spine scholarship recipient for advanced deformity course</li>
         </ul>
       </div>
+      */}
     </div>
   );
 };

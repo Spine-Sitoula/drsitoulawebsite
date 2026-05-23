@@ -34,16 +34,16 @@ const HomePage = () => {
       <div className="card">
         <div className="hero">
           <div className="hero-content">
-            <div className="hero-badge">Spine Specialist · Global Training</div>
-            <h1>Prakash Sitoula, MS, MCh</h1>
-            <h2>Orthopaedic & Spine Surgeon</h2>
-            <p>Dr. Sitoula is a globally trained spine surgeon with advanced international fellowships in complex spinal reconstruction, minimally invasive techniques, and deformity correction. He has performed over 3,800 successful spine procedures and is dedicated to evidence-based care.</p>
+            <div className="hero-badge">Spine Specialist · Surgeon</div>
+            <h1>Prakash Sitoula, MBBS, MS(Ortho)</h1>
+            <h2>Orthopaedic Spine Surgeon</h2>
+            <p>Dr. Sitoula is a globally trained spine surgeon with advanced international fellowships in complex spinal reconstruction, minimally invasive techniques, and deformity correction. He has performed over numerous successful spine procedures and is dedicated to evidence-based care.</p>
             <div className="stats">
               <div className="stat-item">
                 <div className="stat-number">{years}+</div>
                 <div className="stat-label">Years Experience</div>
               </div>
-              <div className="stat-item">
+              {/*<div className="stat-item">
                 <div className="stat-number">{surgeries}00+</div>
                 <div className="stat-label">Surgeries</div>
               </div>
@@ -51,7 +51,8 @@ const HomePage = () => {
                 <div className="stat-number">{fellowships}</div>
                 <div className="stat-label">Fellowships</div>
               </div>
-            </div>
+              */}
+            </div> 
           </div>
           <div className="photo-card">
             <div className="person-photo">
@@ -62,7 +63,7 @@ const HomePage = () => {
               />
             </div>
             <h3>Dr. Prakash Sitoula</h3>
-            <p>Australia · France · South Korea · Denmark · Japan · Singapore</p>
+            {/*<p>Australia · France · South Korea · Denmark · Japan · Singapore</p>*/}
           </div>
         </div>
       </div>

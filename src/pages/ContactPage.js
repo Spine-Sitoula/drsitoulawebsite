@@ -10,9 +10,9 @@ const ContactPage = () => {
   };
 
   const contactItems = [
-    { icon: "Location", label: "Address", value: "Sitoula Spine Institute, Bansbari, Kathmandu, Nepal" },
-    { icon: "Phone", label: "Phone", value: "+977 1-5912345", secondary: "+977 9851234567" },
-    { icon: "Email", label: "Email", value: "dr.prakash@spinecare.com.np" },
+    { icon: "Location", label: "Address", value: "Sitoula Spine Institute, Kathmandu, Nepal" },
+    { icon: "Phone", label: "Phone", value: "+977 9841298947" },
+    { icon: "Email", label: "Email", value: "spine.sitoula@gmail.com" },
     { icon: "Hours", label: "Hours", value: "Mon-Fri: 9AM – 5PM", secondary: "Sat: 10AM – 2PM" }
   ];
 
